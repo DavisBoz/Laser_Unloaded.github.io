@@ -1,0 +1,16 @@
+{
+"companyName": "Laser Unloaded",
+"productName": "Laser Unloaded",
+"productVersion": "0.1",
+"dataUrl": "Laser-Unloaded_F.data.unityweb",
+"wasmCodeUrl": "Laser-Unloaded_F.wasm.code.unityweb",
+"wasmFrameworkUrl": "Laser-Unloaded_F.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
